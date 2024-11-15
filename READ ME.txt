@@ -1,0 +1,14 @@
+Here is a list of what you will need for this project
+Without these packages the code will not properly run
+
+From pip:
+    yt_dlp
+    customtkinter
+
+External:
+    FFmpeg - How to download 'https://youtu.be/JR36oH35Fgg'
+
+How to run the code:
+To run the code, open the main.py file and run that. It will have a pop up window that will ask for you to input a YouTube link.
+Input your desired link, and select either mp3 or mp4 to download the link. If you want to clear everything press the clear button.
+To have the link downloaded to a specific location press the set download location, and choose your desired folder.
